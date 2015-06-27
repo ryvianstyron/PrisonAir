@@ -77,12 +77,15 @@
      <Compile Include="assets\Scripts\Prison.cs" />
      <Compile Include="assets\Scripts\PrisonObject.cs" />
      <Compile Include="assets\Scripts\PrisonObjective.cs" />
+     <Compile Include="assets\Scripts\PrisonSelector.cs" />
      <Compile Include="assets\Scripts\RoomSensor.cs" />
+     <Compile Include="assets\Scripts\SceneTransitioner.cs" />
      <Compile Include="assets\Scripts\Score.cs" />
      <Compile Include="assets\Scripts\SelectionSlider.cs" />
      <Compile Include="assets\Scripts\Task.cs" />
      <Compile Include="assets\Scripts\TaskDetail.cs" />
      <Compile Include="assets\Scripts\TaskTracker.cs" />
+     <Compile Include="assets\Scripts\TitleScreen.cs" />
  <Reference Include="UnityEngine.UI">
  <HintPath>C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll</HintPath>
  </Reference>

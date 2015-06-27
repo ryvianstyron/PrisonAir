@@ -104,4 +104,22 @@ public class LevelTracker : MonoBehaviour
         }
         else return true;
     }
+    public static void SaveLevelScoreToCache(Level LevelWithScore, int ScoreToSave)
+    {
+        string Label = "P" + LevelWithScore.GetPrisonNumber() + "_" +
+                       "L" + LevelWithScore.GetLevelNumber() + "_" + 
+                       "SC";
+        //Check if it exists
+        int ScoreInCache = PlayerPrefs.GetInt(Label);
+        // Only update the score if it's higher than what's in there
+        if (ScoreInCache == 0 || ScoreInCache < ScoreToSave) 
+        {
+            PlayerPrefs.SetInt(Label, ScoreToSave);
+        }
+    }
+    public static int GetSavedScoreFromCache(int PrisonNumber, int LevelNumber)
+    {
+        string Label = "P" + PrisonNumber + "_L" + LevelNumber + "_SC";
+        return PlayerPrefs.GetInt(Label);
+    }
 }

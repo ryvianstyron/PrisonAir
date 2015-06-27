@@ -35,6 +35,7 @@ public class Level
     {
         IsCompleted = true;
         LevelTracker.TrackLevelProgress(this);
+        LevelTracker.SaveLevelScoreToCache(this, GameManager.Score.GetTotalScore());
         Debug.Log("Level " + LevelNumber + "in Prison " + PrisonNumber + " Completed");
         //GameManager.ObjectiveScreen.up(GameManager.ObjectiveScreen.GetCompletedLevelCount() + 1);
         //GameManager.ObjectiveScreen.ShouldWeChangePrison();

@@ -10,12 +10,14 @@ public class GameManager : MonoBehaviour
 	public static LevelBuilder LevelBuilder;
     public static ObjectiveScreen ObjectiveScreen;
     public static LevelOverScreen LevelOverScreen;
+    public static Score Score;
     public GameObject LevelOverPopup;
 
 	public static TaskTracker TaskTracker;
     // Use this for initialization
 	void Awake () 
 	{
+        Score = GameObject.Find("SCORE").GetComponent<Score>();
 		Descriptions Descriptions = new Descriptions();
 		StoryTasks = Descriptions.GetStoryTasks();
 		StoryPhases = Descriptions.GetPhaseTitles();
