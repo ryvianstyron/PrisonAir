@@ -1,0 +1,121 @@
+fileFormatVersion: 2
+guid: 35cdf577ccb79bc4cb86e0f3a60e655b
+timeCreated: 1432322218
+licenseType: Free
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: BN_L_Elbow
+    100002: BN_L_Finger
+    100004: BN_L_FingerKnuckle
+    100006: BN_L_Foot
+    100008: BN_L_Hand
+    100010: BN_L_Hip
+    100012: BN_L_Knee
+    100014: BN_L_Shoulder
+    100016: BN_L_Thumb
+    100018: BN_L_ThumbKnuckle
+    100020: BN_M_Head
+    100022: BN_M_Neck
+    100024: BN_M_Pelvis
+    100026: BN_M_Torso
+    100028: BN_R_Elbow
+    100030: BN_R_Finger
+    100032: BN_R_FingerKnuckle
+    100034: BN_R_Foot
+    100036: BN_R_Hand
+    100038: BN_R_Hip
+    100040: BN_R_Knee
+    100042: BN_R_Shoulder
+    100044: BN_R_Thumb
+    100046: BN_R_ThumbKnuckle
+    100048: PA_TallGuy_01
+    100050: //RootNode
+    400000: BN_L_Elbow
+    400002: BN_L_Finger
+    400004: BN_L_FingerKnuckle
+    400006: BN_L_Foot
+    400008: BN_L_Hand
+    400010: BN_L_Hip
+    400012: BN_L_Knee
+    400014: BN_L_Shoulder
+    400016: BN_L_Thumb
+    400018: BN_L_ThumbKnuckle
+    400020: BN_M_Head
+    400022: BN_M_Neck
+    400024: BN_M_Pelvis
+    400026: BN_M_Torso
+    400028: BN_R_Elbow
+    400030: BN_R_Finger
+    400032: BN_R_FingerKnuckle
+    400034: BN_R_Foot
+    400036: BN_R_Hand
+    400038: BN_R_Hip
+    400040: BN_R_Knee
+    400042: BN_R_Shoulder
+    400044: BN_R_Thumb
+    400046: BN_R_ThumbKnuckle
+    400048: PA_TallGuy_01
+    400050: //RootNode
+    4300000: PA_TallGuy_01
+    7400000: Take 001
+    9500000: //RootNode
+    13700000: PA_TallGuy_01
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

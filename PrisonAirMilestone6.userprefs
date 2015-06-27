@@ -1,0 +1,18 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="assets\Scripts\PrisonObject.cs">
+    <Files>
+      <File FileName="assets\Scripts\PrisonObject.cs" Line="18" Column="54" />
+      <File FileName="assets\Scripts\LevelBuilder.cs" Line="1" Column="1" />
+      <File FileName="assets\Scripts\GameManager.cs" Line="22" Column="72" />
+      <File FileName="assets\Scripts\ObjectiveScreen.cs" Line="1" Column="1" />
+      <File FileName="assets\Scripts\Task.cs" Line="1" Column="1" />
+      <File FileName="assets\Scripts\Descriptions.cs" Line="1" Column="1" />
+      <File FileName="assets\Scripts\TaskTracker.cs" Line="21" Column="8" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

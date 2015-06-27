@@ -1,0 +1,49 @@
+﻿using UnityEngine;
+
+public class Obstacle 
+{
+	public enum Item
+	{
+		Alarm,
+		Bars,
+		Bench,
+		Blimp,
+		BowlingPin,
+		Cabinet,
+		SecurityCamera,
+		CellBed,
+		Chair,
+		Computer,
+		Counter,
+		Desk,
+		Detergent,
+		FilingCabinet,
+		FirstAid,
+		Freezer,
+		Fridge,
+		Garbage, 
+		GarbageBin,
+		Lamp,
+		LaundryBasket,
+		Locker,
+		MetalDetector,
+		Oven,
+		PictureFrame,
+		PoliceCar,
+		Poster,
+		PrisonTower,
+		Radio,
+		RollerBed,
+		Shower,
+		SinkTub,
+		Stall,
+		Stool,
+		Table,
+		Toilet,
+		TubeLight,
+		TV,
+		UHaulTruck,
+		VendingMachine,
+		WashingMachine
+	};
+}
