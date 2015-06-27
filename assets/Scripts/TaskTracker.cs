@@ -10,6 +10,7 @@ public class TaskTracker : MonoBehaviour
 		public string Label;
 		public GameObject gameobject;
 	}
+    // This is a cute comment put here by a cute person called amina
 	public List<LabelAndGameObject> LabelsAndGameObjects;
     public void Initialize()
     {
